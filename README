@@ -66,7 +66,7 @@ dial-up connections to the web from "local host".
 
  Requirements on remote host
 
-* libungif 
+* libungif / giflib
 
 * libpng 
 
@@ -74,7 +74,7 @@ dial-up connections to the web from "local host".
 
 * libjpeg-6b 
 
-* libsasl2 (if SASL authentication is desired, optional)
+* libsasl2 / cyrus-sasl (if SASL authentication is desired, optional)
 
 * zlib
 
